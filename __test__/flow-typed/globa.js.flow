@@ -1,0 +1,3 @@
+declare var describe: {
+  (name:String, fn: () => void): void
+}
